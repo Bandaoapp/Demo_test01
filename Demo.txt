@@ -8,6 +8,12 @@ dev02_branch_02
 
 dev02_branch_03
 
+<<<<<<< Updated upstream
 
 stash01
 
+=======
+issue-1002 is developing...
+
+stash00
+>>>>>>> Stashed changes
