@@ -8,10 +8,5 @@ dev02_branch_02
 
 dev02_branch_03
 
-issue-1004 is developing...
+testing...
 
-
-stash00
-
-stash02
-stash01
