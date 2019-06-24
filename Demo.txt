@@ -1,4 +1,4 @@
-git note:
+## git note added from https://www.liaoxuefeng.com/wiki/896043488029600
 
 https://github.com/Zhangguoliu/learngit
 
@@ -6,11 +6,11 @@ https://github.com/seeways/GitLearn
 
 http://files.cnblogs.com/ma6174/git-tutor.pdf
 
- https://github.com/iuuan/learngit/blob/master/learning-note.md
+https://github.com/iuuan/learngit/blob/master/learning-note.md
 
- https://github.com/hongiii/gitNotes_from_Liao/blob/master/gitNotes_from_Liao.md#%E5%B7%A5%E4%BD%9C%E5%8C%BA%E6%9A%82%E5%AD%98%E5%8C%BA%E5%92%8C%E7%89%88%E6%9C%AC%E5%BA%93
+https://github.com/hongiii/gitNotes_from_Liao/blob/master/gitNotes_from_Liao.md#%E5%B7%A5%E4%BD%9C%E5%8C%BA%E6%9A%82%E5%AD%98%E5%8C%BA%E5%92%8C%E7%89%88%E6%9C%AC%E5%BA%93
 
- https://github.com/zmdstr/learning_git_from_liao/blob/master/%E5%AE%89%E8%A3%85git_%E5%AE%9E%E8%B7%B5.md
+https://github.com/zmdstr/learning_git_from_liao/blob/master/%E5%AE%89%E8%A3%85git_%E5%AE%9E%E8%B7%B5.md
 
 https://xiaolvyun.baidu.com 
 
@@ -34,10 +34,6 @@ https://aipynux.github.io/2019/02/24/%E5%BB%96%E9%9B%AA%E5%B3%B0Git%E6%95%99%E7%
 https://git-scm.com/
 
 https://github.com/michaelliao/learngit
-
-
-
-
 
 
 
