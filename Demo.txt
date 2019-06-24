@@ -27,5 +27,3 @@ vim <file_name>
  001
 
 
- aqdq:q
- as;df;
