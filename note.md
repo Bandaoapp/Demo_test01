@@ -1,3 +1,6 @@
+copy note from:
+https://github.com/Zhangguoliu/learn-git
+
 # Git学习笔记
 ****
 #### 目录
