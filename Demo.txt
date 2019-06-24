@@ -1,4 +1,4 @@
-git note list added from https://www.liaoxuefeng.com/wiki/896043488029600
+git note list added from: https://www.liaoxuefeng.com/wiki/896043488029600
 
 
 https://github.com/Zhangguoliu/learngit
