@@ -18,3 +18,14 @@ pass
 
 issue01
 resolved
+
+add vim text info
+vie on win10
+vim <file_name>
+ normal
+
+ 001
+
+
+ aqdq:q
+ as;df;
