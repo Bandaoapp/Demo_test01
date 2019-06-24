@@ -1,32 +1,23 @@
-demo_dev01
-dev01_branch_01
-dev01_branch_02
-master_branch_01
-master_branch_02
-dev02_branch_01
-dev02_branch_02
+master branch
+create master backup branch
 
-dev02_branch_03
+create dev and test branch
+dev branch named dev_branch
 
-testing...
+dev_branch create dev_test to test the issue and bug
+test branch named dev_test
 
-issue-1002
-resolved
+create Issue_100x to resolve issue and bug
 
-issue-1003
-pass
-
-issue01
-resolved
-
-add vim text info
-vie on win10
-vim <file_name>
- normal
-
- 001
+the first letter of "Issue" is large
 
 
-master
-dev
-test_branch
+主分支
+右主分支创建备份
+
+创建开发分支和测试分支
+开发分支命名：dev_branch
+由dev_branch创建的测试分支测试issue和bug
+测试分支命名：dev_test
+
+从dev_branch
